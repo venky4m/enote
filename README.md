@@ -5,5 +5,8 @@ have their own dynamic homepage where they can add youtube videos and notes to t
 ,also they can view and manage their notes.
 </br>
 
-https://user-images.githubusercontent.com/74142589/124317421-c6177180-db94-11eb-935f-74936e82c8ac.mov
+
+https://user-images.githubusercontent.com/74142589/124384984-71d5d400-dcf1-11eb-83d0-3546fa86ca7f.mov
+
+
 
